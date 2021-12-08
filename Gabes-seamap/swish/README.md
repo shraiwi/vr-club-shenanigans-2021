@@ -1,3 +1,7 @@
+NOTE: this is not mine. I took this from the resource store, and just removed some code so that the weapons are disabled. 
+
+
+
 #  First Person Controller (FPS)
 
 YouTube video: https://youtu.be/o2-Va100omc
